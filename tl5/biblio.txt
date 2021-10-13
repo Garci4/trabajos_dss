@@ -1,0 +1,4 @@
+https://medium.com/datos-y-ciencia/machine-learning-supervisado-fundamentos-de-la-regresi%C3%B3n-lineal-bbcb07fe7fd
+https://www.iartificial.net/regresion-lineal-con-ejemplos-en-python/
+
+https://towardsdatascience.com/performance-metrics-for-classification-machine-learning-problems-97e7e774a007
